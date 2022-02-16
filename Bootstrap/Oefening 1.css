@@ -1,0 +1,14 @@
+.h3-margin{
+    margin: 15px;
+}
+.img-styling{
+    margin: 5px;
+    padding: 2px;
+    border-radius: 20px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+.list-group-item-lightgray{
+    background-color: #f2f2f2;
+}

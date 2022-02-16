@@ -1,0 +1,17 @@
+header{
+    border-bottom: 3px solid #000000;
+    padding: 50px;
+    background-color: #b22;
+    color: #fff;
+    text-align: center;
+}
+label, fieldset, input, textarea, legend, select{
+    margin: 5px;
+    padding: 5px;
+}
+legend{
+    font-size: 20px;
+    color: #2bb;
+    padding: 0 15px;
+    font-weight: bold;
+}
