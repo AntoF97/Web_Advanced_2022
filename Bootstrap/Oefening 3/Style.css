@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1a1a1a;
+    color: #cdcdcd;
+}
+.logo-image{
+    width: 90px;
+    height: 48px;
+    margin: 0;
+    padding: 0;
+}
+.dropdown-image{
+    margin: 0;
+    padding: 0;
+    height: 60px;
+    width: 250px;
+}
+.card{
+    margin: 5px;
+    padding: 5px;
+}
+.card-image{
+    height: 450px;
+}
+.card-text-color{
+    color: white;
+}
