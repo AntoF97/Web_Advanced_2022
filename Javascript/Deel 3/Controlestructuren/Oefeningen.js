@@ -123,19 +123,19 @@
 // document.getElementById("welkomszin").innerHTML = resultaat + " het is vandaag " + dag;
 
 // Oefening 9
-// let getal
-// let userGetal = parseInt(prompt("Geef een getal in van 1 tot 10"));
-// let veelvoud;
-//
-// if (userGetal < 0 || userGetal > 10){
-//     console.log("Niet mogelijk")
-// }
-// else {
-//     for (getal = 0; getal <= 10; getal++){
-//         veelvoud = getal * userGetal;
-//         console.log(veelvoud);
-//     }
-// }
+let getal
+let userGetal = parseInt(prompt("Geef een getal in van 1 tot 10"));
+let veelvoud;
+
+if (userGetal < 0 || userGetal > 10){
+    console.log("Niet mogelijk")
+}
+else {
+    for (getal = 0; getal <= 10; getal++){
+        veelvoud = getal * userGetal;
+        console.log(veelvoud);
+    }
+}
 
 // Oefening 10
 // function driehoek(aantalLijnen = 7){
