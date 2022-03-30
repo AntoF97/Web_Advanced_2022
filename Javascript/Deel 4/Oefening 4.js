@@ -11,8 +11,8 @@ let arrayBoeken = [
         Gelezen: "Nee"
     }
 ];
-console.log(arrayBoeken);
 
+///Vul de ul met list items
 let ul = document.getElementById("boekenlijst");
 
 for (let i = 0; i < arrayBoeken.length; i++) {
